@@ -1,0 +1,23 @@
+.relative{
+	position: relative;
+	background: red;
+	width:200px;
+    height:200px;
+}
+.absolute{
+	position: absolute;
+    background: #9C27B0;
+    width: 120px;
+    height: 100px;
+    top: 40px;
+    left: 40px;
+
+}
+.tres{
+	position: absolute;
+    background: #FFEB3B;
+    width: 60px;
+    height: 60px;
+    top: 40px;
+    left: 40px;
+}
